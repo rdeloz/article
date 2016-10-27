@@ -1,0 +1,69 @@
+.wrapper{
+    
+    margin-left: 15%;
+    margin-right: 15%;
+}
+body {
+   padding: 0px 0 50px 0;
+   font-size: 16px;
+   min-height: 100%;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 25px;
+}
+
+h1 {
+   font-size: 52px;
+   line-height: 60px;
+   margin: 0px 0px 15px 0px;
+   font-family: "Bodoni W01 Roman";
+   color: rgba(86, 86, 86, 1);
+}
+
+h2 {
+   font-size: 27px;
+   line-height: 46px;
+   margin: 0px 0px 25px 0px;
+   font-family: mf-tahoma-131902;
+   color: rgba(170, 170, 170, 1);
+}
+
+h3 {
+   font-size: 17px;
+   line-height: 36px;
+   margin: 0px 0px 19px 0px;
+   color: rgba(99, 99, 99, 1);
+   font-family: mf-tahoma-131902;
+}
+
+h4 {
+   margin-bottom: 25px;
+   font-size: 13px;
+   color: rgba(81, 81, 81, 1);
+   font-family: "Bodoni W01 Italic 709617";
+}
+
+p {
+   margin: 0px 0px 25px 0px;
+   text-transform: inherit;
+   font-size: 17px;
+   font-family: mf-tahoma-131902;
+   line-height: 34px;
+   color: rgba(86, 86, 86, 1);
+}
+
+p.intro {
+   font-size: 20px;
+   line-height: 36px;
+   margin: 0px 0px 13px 0px;
+   font-family: "mf-tahoma-190907";
+   color: rgba(147, 147, 147, 1);
+}
+
+@media(min-width: 760px){
+    .wrapper{
+        margin-left: 20%;
+        margin-right: 20%;
+        max-width: 600px;
+    }
+}
