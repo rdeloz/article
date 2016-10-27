@@ -23,7 +23,7 @@ h1 {
 
 h2 {
    font-size: 27px;
-   line-height: 46px;
+   line-height: 36px;
    margin: 0px 0px 25px 0px;
    font-family: 'Roboto', sans-serif;
    color: rgba(170, 170, 170, 1);
@@ -31,7 +31,7 @@ h2 {
 
 h3 {
    font-size: 17px;
-   line-height: 36px;
+   line-height: 24px;
    margin: 0px 0px 19px 0px;
    color: rgba(99, 99, 99, 1);
    font-family: 'Roboto', sans-serif;
