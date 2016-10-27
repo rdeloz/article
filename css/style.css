@@ -52,7 +52,7 @@ p {
    font-size: 17px;
    font-family: 'Roboto', sans-serif;
    line-height: 34px;
-   color: #999;
+   color: #555;
 }
 
 p.intro {
@@ -68,7 +68,7 @@ p.intro {
     font-size: 72px;
     line-height: 60px;
     float: left;
-    color: rgba(170, 170, 170, 1);
+    color: #666;
 }
 
 
