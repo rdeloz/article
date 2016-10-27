@@ -2,7 +2,6 @@ body {
    padding: 0px 0 50px 0;
    font-size: 16px;
    min-height: 100%;
-   font-family: Georgia;
    font-weight: 400;
    font-style: normal;
    line-height: 25px;
@@ -12,7 +11,8 @@ h1 {
    font-size: 52px;
    line-height: 60px;
    margin: 0px 0px 15px 0px;
-   font-family: "Bodoni W01 Roman";
+   font-family: 'Droid', serif;
+    font-style: Italic;
    color: rgba(86, 86, 86, 1);
 }
 
@@ -20,7 +20,7 @@ h2 {
    font-size: 27px;
    line-height: 46px;
    margin: 0px 0px 25px 0px;
-   font-family: mf-tahoma-131902;
+   font-family: 'Roboto', sans-serif;
    color: rgba(170, 170, 170, 1);
 }
 
@@ -29,21 +29,22 @@ h3 {
    line-height: 36px;
    margin: 0px 0px 19px 0px;
    color: rgba(99, 99, 99, 1);
-   font-family: mf-tahoma-131902;
+   font-family: 'Roboto', sans-serif;
 }
 
 h4 {
    margin-bottom: 25px;
    font-size: 13px;
    color: rgba(81, 81, 81, 1);
-   font-family: "Bodoni W01 Italic 709617";
+   font-family: 'Droid', serif;
+    font-style: Italic;
 }
 
 p {
    margin: 0px 0px 25px 0px;
    text-transform: inherit;
    font-size: 17px;
-   font-family: mf-tahoma-131902;
+   font-family: 'Roboto', sans-serif;
    line-height: 34px;
    color: rgba(86, 86, 86, 1);
 }
@@ -52,6 +53,6 @@ p.intro {
    font-size: 20px;
    line-height: 36px;
    margin: 0px 0px 13px 0px;
-   font-family: "mf-tahoma-190907";
+   font-family: 'Roboto', sans-serif;
    color: rgba(147, 147, 147, 1);
 }
