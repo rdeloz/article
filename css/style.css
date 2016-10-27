@@ -1,3 +1,8 @@
+.wrapper{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
 body {
    padding: 0px 0 50px 0;
    font-size: 16px;
@@ -55,4 +60,13 @@ p.intro {
    margin: 0px 0px 13px 0px;
    font-family: 'Roboto', sans-serif;
    color: rgba(147, 147, 147, 1);
+}
+
+
+@media(min-width:760px){
+    
+    .wrapper{
+    margin-left: 20%;
+    margin-right: 20%;
+}
 }
