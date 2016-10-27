@@ -64,7 +64,8 @@ p.intro {
 }
 
 .drop{
-    font-size: 30px;
+    font-size: 42px;
+    line-height: 20px;
     float: left;
 }
 
